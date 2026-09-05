@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+rekon/data/
+web/node_modules/
+web/dist/
+node_modules/
